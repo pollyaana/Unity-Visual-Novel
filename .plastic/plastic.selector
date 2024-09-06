@@ -1,0 +1,4 @@
+repository "Novel@pollyanaaa@cloud"
+  path "/"
+    br "/main"
+    co "/main"

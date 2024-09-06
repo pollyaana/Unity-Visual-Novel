@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Screens/Autorization.unity
+    guid: a6b219d87f0d4f845a85bfcc11153a1e
+  - enabled: 1
+    path: Assets/Scenes/Screens/Menu2.unity
+    guid: b92fa3a21595312429b3bba2225cb4b9
+  - enabled: 1
+    path: Assets/Scenes/Screens/Menu.unity
+    guid: f538a919e4eafc24d82bf41a5887987e
+  - enabled: 1
+    path: Assets/Scenes/Screens/Settings.unity
+    guid: cae7ccc19b7a4064b8d331b50cfe41b0
+  - enabled: 1
+    path: Assets/Scenes/Screens/Groups.unity
+    guid: d0f435b89890629489367367ca68ec1b
+  - enabled: 1
+    path: Assets/Scenes/Screens/Statistics.unity
+    guid: e5e612dff90a6be4ea23c0e8625a85d6
+  - enabled: 1
+    path: Assets/Scenes/Screens/AddGroup.unity
+    guid: 305101ace5f1bc942b58f10d22b90b9f
+  - enabled: 1
+    path: Assets/Scenes/Screens/AddPupil.unity
+    guid: 17f69a8c74ed0984b9e48bd43c927d6c
+  - enabled: 1
+    path: Assets/Scenes/Screens/Pupil.unity
+    guid: fde24b31ffb3f4c4a81a00f98d819979
+  - enabled: 1
+    path: Assets/Scenes/Screens/Group.unity
+    guid: 19a9a647f590fca4b8784b7f95828397
+  - enabled: 1
+    path: Assets/Scenes/Screens/ShowAnswers.unity
+    guid: 0a5ac279fcfd68742be26a30156e884d
+  - enabled: 1
+    path: Assets/Scenes/Author/AuthorChooseCharacter.unity
+    guid: 60da0dcbb87c57d478f682b3a8991ee2
+  - enabled: 1
+    path: Assets/Scenes/Author/CharacterName.unity
+    guid: cb7d23722efc2bb4eafabeff15abc160
+  - enabled: 1
+    path: Assets/Scenes/Author/AuthorGraphineScene.unity
+    guid: 23ad321ab5565ff4796b069f3a7a54fd
+  - enabled: 1
+    path: Assets/Scenes/Prologue/PrologueChooseCharacter.unity
+    guid: 21d36d759868e254fad8c50ff7eaa875
+  - enabled: 1
+    path: Assets/Scenes/Prologue/PrologueMaidScene.unity
+    guid: af47d4d85b4525543a736b44bf8b608b
+  - enabled: 1
+    path: Assets/Scenes/Prologue/PrologueDoctorScene.unity
+    guid: 8186b83766477a747a45cd2fb6bb5a0b
+  - enabled: 1
+    path: Assets/Scenes/Prologue/CharacterSurname.unity
+    guid: d332ba3e07c41204eb9d96396e38fe17
+  - enabled: 1
+    path: Assets/Scenes/Author/AuthorGusarScene.unity
+    guid: 5e92d0b63a737634d8d6760c8f03dc61
+  - enabled: 1
+    path: Assets/Scenes/KnowledgeAssesment/AndreBolconskiy.unity
+    guid: 30b57a1d46754c94e95172223035079e
+  - enabled: 1
+    path: Assets/Scenes/KnowledgeAssesment/NatashaRostova.unity
+    guid: 13e091206fad31e44b97e5400f779cb8
+  - enabled: 1
+    path: Assets/Scenes/KnowledgeAssesment/KnowledgeAssesmentChooseCharacter.unity
+    guid: bf9059fa243c7fe449f455cab6e5c984
+  - enabled: 1
+    path: Assets/Scenes/KnowledgeAssesment/ShowPoints.unity
+    guid: 94b1fc8e566c90640934c1341c2afb21
+  - enabled: 1
+    path: Assets/Scenes/KnowledgeAssesment/ShowPupilAnswers.unity
+    guid: 1d5ea1fc41d38e349ae41c487b7d3874
+  - enabled: 1
+    path: Assets/Scenes/KnowledgeAssesment/TestingPart.unity
+    guid: bab399fea5bc4104b9e4f4721348af3d
+  m_configObjects: {}

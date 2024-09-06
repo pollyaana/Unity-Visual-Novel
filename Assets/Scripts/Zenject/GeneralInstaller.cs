@@ -1,0 +1,19 @@
+using Ink.Runtime;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Zenject;
+
+public class GeneralInstaller : MonoInstaller
+{
+    [SerializeField] private DialogueInstaller dialogueInstaller;
+    public override void InstallBindings()
+    {
+        BindDialogueInstaller();
+    }
+
+    private void BindDialogueInstaller()
+    {
+        Container.Bind<DialogueInstaller>().FromInstance(dialogueInstaller).AsSingle();
+    }
+}
